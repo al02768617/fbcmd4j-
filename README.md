@@ -12,7 +12,7 @@ Uso:
   Para todos estos tendrán otras sub-funciones las cuales incluiran el guardar cierto numero de estos elementos
 
 Creditos:
-  David Osmar Ramos Zárate Al02768617
+  David Osmar Ramos Zárate (superman el Rover) Al02768617
   
 Licencia
   Se concede la licencia a su creador y al profesor de la materia Programación en Java
